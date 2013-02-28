@@ -1,0 +1,23 @@
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:11:
+/Users/alyssaprimandaru/Desktop/14.9/Human.h:10:2: error: invalid preprocessing directive #ifdndef
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.h:13,
+                 from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:11:
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:10:2: error: invalid preprocessing directive #ifdndef
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:31:2: error: #endif without #if
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:11:
+/Users/alyssaprimandaru/Desktop/14.9/Human.h:26:2: error: #endif without #if
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:12:
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:10:2: error: invalid preprocessing directive #ifdndef
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:31:2: error: #endif without #if
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.h:13,
+                 from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:11:
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:21: error: 'string' does not name a type
+In file included from /Users/alyssaprimandaru/Desktop/14.9/Human.cpp:12:
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:15: error: redefinition of 'class fantasy::Creature'
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:16: error: previous definition of 'class fantasy::Creature'
+/Users/alyssaprimandaru/Desktop/14.9/Human.cpp:17: error: prototype for 'void fantasy::Human::setDamage(int)' does not match any in class 'fantasy::Human'
+/Users/alyssaprimandaru/Desktop/14.9/Human.h:20: error: candidate is: void fantasy::Human::setDamage()
+/Users/alyssaprimandaru/Desktop/14.9/Human.cpp: In member function 'void fantasy::Human::setDamage(int)':
+/Users/alyssaprimandaru/Desktop/14.9/Human.cpp:18: error: 'rand' was not declared in this scope
+/Users/alyssaprimandaru/Desktop/14.9/Human.cpp: At global scope:
+/Users/alyssaprimandaru/Desktop/14.9/Human.cpp:24: error: expected `}' at end of input

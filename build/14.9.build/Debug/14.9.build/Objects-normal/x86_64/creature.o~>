@@ -1,0 +1,16 @@
+In file included from /Users/alyssaprimandaru/Desktop/14.9/creature.cpp:11:
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:10:2: error: invalid preprocessing directive #ifdndef
+/Users/alyssaprimandaru/Desktop/14.9/creature.h:30:2: error: #endif without #if
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:15: error: 'creature' has not been declared
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:15: error: ISO C++ forbids declaration of 'creatue' with no type
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp: In function 'int fantasy::creatue()':
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:16: error: 'type' was not declared in this scope
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:17: error: 'strength' was not declared in this scope
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:18: error: 'hitpoints' was not declared in this scope
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp: At global scope:
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:22: error: 'creature' has not been declared
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:22: error: ISO C++ forbids declaration of 'Creature' with no type
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:27: error: 'creature' has not been declared
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp: In function 'int fantasy::getDamage()':
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:30: error: 'rand' was not declared in this scope
+/Users/alyssaprimandaru/Desktop/14.9/creature.cpp:30: error: 'strength' was not declared in this scope

@@ -1,0 +1,256 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B9F1B2CE16DED805001AB772 /* 14.9 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* 14.9 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* 14.9 */,
+		);
+		codeSenseManager = B9F1B2D416DED817001AB772 /* Code sense */;
+		executables = (
+			B9F1B2CE16DED805001AB772 /* 14.9 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 383740403;
+			PBXWorkspaceStateSaveDate = 383740403;
+		};
+		perUserProjectItems = {
+			B9F1B2E816DEE4DB001AB772 = B9F1B2E816DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2E916DEE4DB001AB772 = B9F1B2E916DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2EA16DEE4DB001AB772 = B9F1B2EA16DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2EB16DEE4DB001AB772 = B9F1B2EB16DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2EC16DEE4DB001AB772 = B9F1B2EC16DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2ED16DEE4DB001AB772 = B9F1B2ED16DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2EE16DEE4DB001AB772 = B9F1B2EE16DEE4DB001AB772 /* PBXTextBookmark */;
+			B9F1B2EF16DEE4DB001AB772 = B9F1B2EF16DEE4DB001AB772 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B9F1B2D316DED817001AB772 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 143}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* 14.9 */ = {
+		activeExec = 0;
+		executables = (
+			B9F1B2CE16DED805001AB772 /* 14.9 */,
+		);
+	};
+	B9A3527D16DF6D4700AB5576 /* Elf.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 299}}";
+			sepNavSelRange = "{342, 0}";
+			sepNavVisRange = "{27, 317}";
+		};
+	};
+	B9F1B2CE16DED805001AB772 /* 14.9 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = 14.9;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B9F1B2D216DED817001AB772 /* creature.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 429}}";
+			sepNavSelRange = "{377, 51}";
+			sepNavVisRange = "{212, 253}";
+			sepNavWindowFrame = "{{15, 4}, {1028, 769}}";
+		};
+	};
+	B9F1B2D316DED817001AB772 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B9F1B2D416DED817001AB772 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B9F1B2DD16DED94A001AB772 /* Elf.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 351}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{131, 236}";
+		};
+	};
+	B9F1B2DE16DED95C001AB772 /* Demon.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Demon.h;
+		path = /Users/alyssaprimandaru/Desktop/14.9/Demon.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 299}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{27, 253}";
+		};
+	};
+	B9F1B2DF16DED96C001AB772 /* Balrog.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Balrog.h;
+		path = /Users/alyssaprimandaru/Desktop/14.9/Balrog.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 312}}";
+			sepNavSelRange = "{135, 62}";
+			sepNavVisRange = "{68, 244}";
+		};
+	};
+	B9F1B2E016DED98A001AB772 /* Cyberdemon.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cyberdemon.h;
+		path = /Users/alyssaprimandaru/Desktop/14.9/Cyberdemon.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 312}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{72, 256}";
+		};
+	};
+	B9F1B2E116DEDA33001AB772 /* creature.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 494}}";
+			sepNavSelRange = "{404, 0}";
+			sepNavVisRange = "{245, 194}";
+		};
+	};
+	B9F1B2E816DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2DF16DED96C001AB772 /* Balrog.h */;
+		name = "Balrog.h: 10";
+		rLen = 62;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 68;
+	};
+	B9F1B2E916DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2DE16DED95C001AB772 /* Demon.h */;
+		name = "Demon.h: 23";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 27;
+	};
+	B9F1B2EA16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2E016DED98A001AB772 /* Cyberdemon.h */;
+		name = "Cyberdemon.h: 24";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 72;
+	};
+	B9F1B2EB16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	B9F1B2EC16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2D216DED817001AB772 /* creature.h */;
+		name = "creature.h: 20";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 209;
+		vrLoc = 192;
+	};
+	B9F1B2ED16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2DD16DED94A001AB772 /* Elf.h */;
+		name = "Elf.h: 20";
+		rLen = 0;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 25;
+	};
+	B9F1B2EE16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2E116DEDA33001AB772 /* creature.cpp */;
+		name = "creature.cpp: 31";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 198;
+		vrLoc = 261;
+	};
+	B9F1B2EF16DEE4DB001AB772 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9F1B2E116DEDA33001AB772 /* creature.cpp */;
+		name = "creature.cpp: 26";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 198;
+		vrLoc = 261;
+	};
+}
